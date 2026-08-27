@@ -1,4 +1,7 @@
 # Dsw2026-ej19
+## Ejercicio 19 - DSW2026
+### Alumno y Legajo:
+- Valverde Vasile, Pablo Javier (57953 - K3)
 
 - Crear una carpeta con el nombre “Ejercicio_19” y abrir la carpeta en Visual Studio
 - Copiar los archivos “index.html” y “doctors.html” del ejercicio 17.
