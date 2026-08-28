@@ -1,0 +1,18 @@
+.Titulo{
+    border: 1px solid gray;
+}
+
+.Navegador{
+    border: 1px solid red;
+    height: 30px;
+}
+
+.Texto{
+    border: 1px solid blue;
+    height: 100px;
+}
+
+.Pie{
+    border: 1px solid green;
+    height: 30px;
+}
